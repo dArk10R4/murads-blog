@@ -1,0 +1,29 @@
+html,body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(240,240,240);
+}
+.posts .post {
+    background:#fff;
+    
+    border-radius: 10px;
+    
+    margin-bottom: 20px;     
+}
+.posts{
+    padding: 0 300px;
+}
+.posts .post .author-name{
+    font-size:28px;
+    color:black;
+    
+
+}
+.posts .post .post-content{
+    margin-top: 15px;
+    font-size: 16px;
+    color:black
+}
+.post{
+    border: 1px solid rgb(200,200,200);
+    padding: 10px 20px;
+}
